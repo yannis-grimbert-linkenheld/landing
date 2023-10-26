@@ -1,0 +1,54 @@
+@import url(""https://fonts.googleapis.com/css2?family=Lora&family=Nanum+Myeongjo&family=Roboto:wght@100&display=swap" rel="stylesheet"");
+
+@import url("components/container.css");
+
+@import url("components/button.css");
+
+@import url("components/banner.css");
+
+@import url("components/card.css");
+
+
+body {
+
+  font-family: 'Lora', serif;
+  font-size: 18px;
+  margin: 0px;
+  background: #2D6187;
+}
+h1, h2, h3, h4 {
+  font-family: 'Roboto', sans-serif;
+  font-size: 17px ;
+}
+a{
+  text-decoration: none;
+   color: #EFFAD3;
+   font-family: Roboto;
+}
+
+h4 {
+  color: #A8DDA8
+}
+
+a:hover{
+  color: #C1CFC0;
+}
+
+h1,h2{
+  color: #E7E0C9;
+}
+
+h2{
+  font-weight: 700;
+}
+
+h3{
+  color: #11324D;
+  font-weight: 1000;
+}
+
+h4{
+  font-family: 'Lora', serif ;
+  font-weight: 10;
+  font-size: 22px;
+}
